@@ -1,0 +1,14 @@
+the kit provides tools for rom image editing
+
+the top section shows rom image map
+
+the map is divided on editable segments
+
+some represent sprite sheets
+some represent tiles
+some represent maps
+some defines palette
+some have system code
+
+do not edit system code!
+that can break the rom

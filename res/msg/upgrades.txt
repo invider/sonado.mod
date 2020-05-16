@@ -1,0 +1,7 @@
+always look for upgrades
+
+tools at your disposal is not good for pro gamedev
+
+so we recommend to buy assembler, so you could generate unique rom images with complex behavior
+
+currently you are using inferior system routines from example image

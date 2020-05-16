@@ -1,0 +1,5 @@
+* directory list provided
+  when no command specified
+* 'home' returns to home dir
+* help <command> - info on
+  specific command
